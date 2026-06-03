@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Name:Koushik\n" "USN:1WA24cs206\n" "PRG:Earliest Deadline first (EDF) Algorithm\n");
+    printf("Name:Nikhil HR\n" "USN:1WA24cs187\n" "PRG:Earliest Deadline first (EDF) Algorithm\n");
     int n, i;
 
     printf("Enter number of tasks: ");
